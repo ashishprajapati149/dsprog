@@ -1,4 +1,4 @@
-//Linked_List
+//Linked_List all Funtions
 #include<stdio.h>
 #include<stdlib.h>
 
